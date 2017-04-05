@@ -1,2 +1,2 @@
 # AutoUpdater
-An updater for c/s architecture sosftware
+An updater for c/s architecture software
