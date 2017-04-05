@@ -1,0 +1,9 @@
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csprojResolveAssemblyReference.cache
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.Properties.Resources.resources
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.csproj.GenerateResource.Cache
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.exe
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.pdb
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdater.MainForm.resources

@@ -1,0 +1,12 @@
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\AutoUpdater.exe.config
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\AutoUpdater.exe
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\AutoUpdater.pdb
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\SimpleUpdater.dll
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\SimpleUpdater.pdb
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\SimpleUpdater.xml
+F:\新建文件夹\AutoUpdater\AutoUpdater\bin\Release\en\SimpleUpdater.resources.dll
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Release\AutoUpdater.MainForm.resources
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Release\AutoUpdater.Properties.Resources.resources
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Release\AutoUpdater.csproj.GenerateResource.Cache
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Release\AutoUpdater.exe
+F:\新建文件夹\AutoUpdater\AutoUpdater\obj\Release\AutoUpdater.pdb
